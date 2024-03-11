@@ -21,7 +21,7 @@ Create separate wallets for each Swan account you have. If your Bitcoin balance 
 Caveats
 ---
 
-Purchasing fees do not appear to be calculated in Koinly so an excess USD balance is present.
+- Purchasing fees do not appear to be calculated in Koinly so an excess USD balance is present.
 
 Disclaimer
 ---
